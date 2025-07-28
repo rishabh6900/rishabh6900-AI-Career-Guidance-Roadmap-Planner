@@ -1,6 +1,5 @@
-# rishabh6900-AI-Career-Guidance-Roadmap-Planner
+# AI-Career-Guidance-Roadmap-Planner
 
-# AI Career Guidance & Roadmap Planner
 This is a Streamlit web application that uses Google Gemini generative AI via LangChain to provide personalized career guidance. Based on your interest area, education level, and dream career, it generates a detailed step-by-step roadmap including skills, tech stacks, certifications, and practical steps like projects or internships.
 
 ## Features
